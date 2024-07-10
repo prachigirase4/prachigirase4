@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @prachigirase4
 - 🌱 Currently pursuing B.Tech degree in computer science..
+- 🧿 Passionate Computer Engineering student..
 
 <!---
 prachigirase4/prachigirase4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
